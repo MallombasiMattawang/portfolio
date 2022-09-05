@@ -60,7 +60,7 @@ function Projects() {
               isBlog={false}
               title="Puzzle Satwa Dilindungi"
               description="permainan menyusun gambar hewan dengan tiga tingkatan kesulitan cocok untuk mengisi waktu senggang anda, jangan sampai stress aja ya mainnya :D"
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
+              ghLink="https://github.com/MallombasiMattawang/puzzle-satwa"
               demoLink="http://ksdasulsel.menlhk.go.id/post/game-puzzle-satwa-identitas-sulawesi"
             />
           </Col>
@@ -71,7 +71,7 @@ function Projects() {
               isBlog={false}
               title="Julang Sulawesi"
               description="Julang sulwesi / Rangkong Sulawesi atau Rhinoceros Cassedix adalah Satwa Endemik Sulawesi yang semakin menurun populasi. Game Si Julang Melawan Naga Jahat ini di kembangkan IT BBKSDA Sulsel sebagai kampanye konservasi terhadap satwa Julang di sulawesi"
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
+              ghLink="https://github.com/MallombasiMattawang/julang-sulawesi"
              demoLink="http://ksdasulsel.menlhk.go.id/post/si-julang-game-petualangan-rangkong-sulawesi" 
             />
           </Col>
