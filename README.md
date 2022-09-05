@@ -1,6 +1,6 @@
 
 
-My personal portfolio <a href="https://mattawang.vercel.app" target="_blank">https://mattawang.vercel.app/project</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://mattawang.vercel.app" target="_blank">Klik me</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
