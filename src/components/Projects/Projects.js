@@ -8,6 +8,9 @@ import julang from "../../Assets/Projects/julang.png";
 import siap from "../../Assets/Projects/siap.png";
 import ksda from "../../Assets/Projects/ksda.png";
 import monica from "../../Assets/Projects/monica.png";
+import school from "../../Assets/Projects/school.png";
+import taliabu from "../../Assets/Projects/taliabu.png";
+import pu from "../../Assets/Projects/pu.png";
 
 function Projects() {
   return (
@@ -21,6 +24,39 @@ function Projects() {
           Berikut adalah beberapa proyek yang saya kerjakan baru-baru ini.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={pu}
+              isBlog={false}
+              title="Web Dispar Kab. Pulau Taliabu"
+              description="Akses Semua Database Infrastruktur Yang Dimiliki Dinas Pekerjaan Umum Kab. Bulukumba seperti Sungai, Jalan, dan lainnya"
+              //ghLink="https://github.com/soumyajit4419/Chatify"
+              demoLink="https://pu.bulukumbakab.go.id/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={taliabu}
+              isBlog={false}
+              title="Database Sungai Kab. Bulukumba"
+              description="Aplikasi ini bertujuan untuk mengembangkan dan meningkatkan pelayanan serta memperkenalkan dan mempromosikan Kabupaten Pulau Taliabu secara terarah kepada wisatawan domestik dan mancanegara di Kabupaten Pulau Taliabu dengan memanfaatkan media elektronik."
+              //ghLink="https://github.com/soumyajit4419/Chatify"
+              demoLink="https://dispar.taliabukab.go.id/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={school}
+              isBlog={false}
+              title="SmartSchool Polman"
+              description="Smartschool adalah sistem yang dibuat untuk mendigitalkan semua aspek di sekolah, termasuk pembelajaran, pengelolaan sarana dan prasarana sekolah, dengan tujuan untuk memudahkan kegiatan belajar mengajar di sekolah."
+              //ghLink="https://github.com/soumyajit4419/Chatify"
+              demoLink="https://smartschool-polman.id/"
+            />
+          </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={siap}

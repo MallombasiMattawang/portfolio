@@ -16,18 +16,18 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              Izinkan <span className="purple"> Saya </span> Memperkenalkan Diri
+              Tentang <span className="purple"> Saya </span> 
             </h1>
             <p className="home-about-body">
-              Saya seorang pengembang aplikasi yang energik dan bersemangat mencari peluang untuk meningkatkan kemampuan saya di organisasi terkemuka. 
+              Saya seorang pengembang website dan aplikasi yang bekerja secara Mandiri ataupun dengan Tim. 
               <br />
               <br />Saya memiliki pengalaman kerja menggunakan
               <i>
-                <b className="purple"> PHP, Yii2, Codeigniter, Laravel dan Node express</b>
+                <b className="purple"> PHP, Yii2, Codeigniter, Laravel dan React.Js</b>
               </i>
               <br />
               <br />
-              Saat ini saya tertarik mengembangkan aplikasi multi-platform menggunakan flutter atau framework javascript kedepannya Seperti
+              Saat ini saya tertarik mengembangkan aplikasi multi-platform menggunakan Seperti
               <i>
                 <b className="purple"> React.js and Next.js</b>
               </i>
